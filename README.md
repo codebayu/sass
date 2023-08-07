@@ -1,8 +1,8 @@
-# by-ui | CSS Library Inspired by Bootstrap 🚀 
+# By UI | CSS Library Inspired by Bootstrap 🚀 
 
 ## Description
 
-Elevate your web design with [Your CSS Library Name], a versatile and innovative framework inspired by Bootstrap, empowering you to craft responsive and visually captivating websites with unparalleled flexibility.
+Elevate your web design with By UI, a versatile and innovative framework inspired by Bootstrap, empowering you to craft responsive and visually captivating websites with unparalleled flexibility.
 Check the documentation on [by-ui](https://bayu-setiawan.gitbook.io/by.ui/).
 
 ## Getting Started
