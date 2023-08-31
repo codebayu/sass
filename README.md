@@ -1,26 +1,30 @@
-# By UI | CSS Library Inspired by Bootstrap 🚀 
+# Code Bayu CSS | CSS Library Inspired by Bootstrap 🚀
 
 ## Description
 
-Elevate your web design with By UI, a versatile and innovative framework inspired by Bootstrap, empowering you to craft responsive and visually captivating websites with unparalleled flexibility.
+This is open source CSS Library inspired by Bootstrap or Tailwind CSS.
 Check the documentation on [by-ui](https://bayu-setiawan.gitbook.io/by.ui/).
 
 ## Getting Started
 
-1. Install by-ui as a dependency using NPM by running the following command:
-``` 
-npm install by-ui-library
+1. Install codebayucss as a dependency using NPM by running the following command:
+
+```bash
+npm i codebayucss
 ```
+
 2. In React, import by-ui.css
-```
+
+```bash
 import "by-ui-library/css/by-ui.css";
 ```
 
 ## Usage
 
-You can use this library by class system like bootstrap
+You can use this library by class system like bootstrap or tailwind
 
 ### Preview
+
 <img width="736" alt="Screenshot 2023-08-07 at 13 26 36" src="https://github.com/Bayusetiawan45/by-ui/assets/99315255/2efd7849-ff4c-4ecd-b09f-e64ce5a0b84f">
 
 ### Code
