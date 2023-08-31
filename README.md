@@ -3,7 +3,7 @@
 ## Description
 
 This is open source CSS Library inspired by Bootstrap or Tailwind CSS.
-Check the documentation on [by-ui](https://bayu-setiawan.gitbook.io/by.ui/).
+Check the documentation on [here](https://bayu-setiawan.gitbook.io/by.ui/).
 
 ## Getting Started
 
