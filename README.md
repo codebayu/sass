@@ -16,7 +16,7 @@ npm i codebayucss
 2. In React, import by-ui.css
 
 ```bash
-import "by-ui-library/css/by-ui.css";
+import "codebayucss/css/codebayu.css";
 ```
 
 ## Usage
