@@ -1,17 +1,17 @@
 {
-  "name": "codebayucss",
-  "version": "1.0.4",
-  "description": "",
+  "name": "@codebayu/sass",
+  "version": "0.0.1",
+  "description": "SASS boilerplate with gulp and sass",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "bayu setiawan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-purgecss": "^4.1.3",
+    "gulp-purgecss": "^5.0.0",
     "gulp-sass": "^5.1.0",
-    "sass": "^1.54.4"
+    "sass": "^1.69.5"
   }
 }
