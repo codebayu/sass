@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "commit": "git-cz"
   },
   "author": "bayu setiawan",
   "license": "MIT",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "gulp": "^4.0.2",
     "gulp-purgecss": "^5.0.0",
     "gulp-sass": "^5.1.0",
@@ -19,5 +21,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Bayusetiawan45/sass"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
