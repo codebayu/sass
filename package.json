@@ -1,10 +1,11 @@
 {
   "name": "@codebayu/sass",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "SASS boilerplate with gulp and sass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "author": "bayu setiawan",
   "license": "MIT",
@@ -12,6 +13,11 @@
     "gulp": "^4.0.2",
     "gulp-purgecss": "^5.0.0",
     "gulp-sass": "^5.1.0",
-    "sass": "^1.69.5"
+    "sass": "^1.69.5",
+    "semantic-release": "^22.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bayusetiawan45/sass"
   }
 }
