@@ -1,6 +1,6 @@
 {
   "name": "@codebayu/sass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SASS boilerplate with gulp and sass",
   "main": "index.js",
   "scripts": {
