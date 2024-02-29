@@ -15,7 +15,7 @@
     "gulp-purgecss": "^5.0.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.69.5",
-    "semantic-release": "^22.0.8"
+    "semantic-release": "^23.0.2"
   },
   "repository": {
     "type": "git",
