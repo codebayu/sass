@@ -12,7 +12,7 @@
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "gulp": "^4.0.2",
-    "gulp-purgecss": "^5.0.0",
+    "gulp-purgecss": "^6.0.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.69.5",
     "semantic-release": "^22.0.8"
